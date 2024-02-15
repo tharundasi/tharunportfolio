@@ -1722,7 +1722,8 @@ body.resize .arlo_tm_mainpart {
 	bottom: 0px;
 	left: 0px;
 	right: 0px;
-	background-color: var(--blue-color);
+	background-color: #20c997;
+	/* background-color: var(--blue-color); */
 	opacity: 0;
 	visibility: hidden;
 
