@@ -783,6 +783,7 @@ body.resize .arlo_tm_mainpart {
 	background-color: #f9f9f9;
 	background-image: url(../img/about/tharun-slide-final.jpeg);
 	background-size: cover;
+	background-position: -475px 40px;
 }
 
 .arlo_tm_hero .background {
